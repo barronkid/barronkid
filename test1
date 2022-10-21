@@ -1,0 +1,2 @@
+name: Read yaml
+uses: jbutcher5/read-yaml@1.6
